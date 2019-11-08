@@ -9,7 +9,7 @@ import (
 	"github.com/golang/protobuf/ptypes"
 	"google.golang.org/grpc"
 
-	"./pkg/api/v1"
+	"github.com/steeevieee/grpc1/pkg/api/v1"
 )
 
 const (

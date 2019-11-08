@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"./pkg/cmd"
+	"github.com/steeevieee/grpc1/pkg/cmd"
 )
 
 func main() {
